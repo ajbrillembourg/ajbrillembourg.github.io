@@ -1,4 +1,4 @@
-![A](https://github.com/ajbrillembourg/ajbrillembourg/blob/1316659b168c72c5f523c1ec4a7b7c7ded858e78/images/A.png)
+![A](https://github.com/ajbrillembourg/ajbrillembourg/blob/1f99a5da65663c4f31240eff78d1ba8505b202b5/images/cover.png)
 
 ## Welcome! ¡Bienvenidos! ¡Bienvenue! :wave:
 
