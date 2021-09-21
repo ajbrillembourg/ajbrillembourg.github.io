@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/ajbrillembourg/ajbrillembourg/images/A.png "Header")](https://some-url.dev/)
+images/A.png
+
 ## Welcome! ¡Bienvenidos! ¡Bienvenue! :wave:
 
 -- :mortar_board: I'm currently working on completing my Master of Science in Business Analytics and Information Management at Purdue University
