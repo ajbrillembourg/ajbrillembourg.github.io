@@ -1,28 +1,19 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Academic
 
 ---
 
-### Category Name 2
+### Purdue University Krannert School of Management
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+#### Using R for Analytics | [FitPal Fitness Tracker](https://github.com/ajbrillembourg/fitpal-fitness-tracker)
+<img src="https://github.com/ajbrillembourg/fitpal-fitness-tracker/blob/c9f4da3f42f671bdbc3ecd316889b47b1e606f40/FitPal-Logo_MedGreenBackground.png"/>
+
+---
+#### Python Programming | Customer Churn Final Project
 
 ---
