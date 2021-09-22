@@ -9,3 +9,5 @@
 -- :signal_strength: My strengths are individualization, learning, responsibility, communication, and analytics
 
 -- :sunglasses: I'm looking to connect with other non-traditional analysts/developers interested in the intersection between the public and private sectors
+
+-- :pray: Please be patient as I am still working on completing my portfolio. Soon I will have an updated version based on my most recent experience
