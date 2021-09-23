@@ -11,7 +11,7 @@
 ---
 
 #### Using R for Analytics | [FitPal Fitness Tracker](https://github.com/ajbrillembourg/fitpal-fitness-tracker)
-![FitPal Flowchart](https://github.com/ajbrillembourg/fitpal-fitness-tracker/raw/main/FitPal_FlowChart.png)
+![FitPal Flowchart](https://github.com/ajbrillembourg/fitpal-fitness-tracker/raw/main/FitPal-Logo_MedGreenBackground.png)
 
 ---
 #### Python Programming | Customer Churn Final Project
