@@ -11,3 +11,8 @@
 -- :sunglasses: I'm looking to connect with other non-traditional analysts/developers interested in the intersection between the public and private sectors
 
 -- :pray: Please be patient as I am still working on completing my portfolio. Soon I will have an updated version based on my most recent experience
+
+---
+
+## Visit Deployed Page :wave:
+-- Please visit the deployed portfolio page by going to https://ajbrillembourg.github.io/ajbrillembourg/
