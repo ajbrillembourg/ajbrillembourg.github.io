@@ -2,15 +2,13 @@
 
 ## Welcome! ¡Bienvenidos! ¡Bienvenue! :wave:
 
--- :mortar_board: I'm currently working on completing my Master of Science in Business Analytics and Information Management at Purdue University
+-- :mortar_board: I'm currently working on completing my Master of Science in Business Analytics and Information Management at Purdue University.
 
--- :bar_chart: I'm currently expanding my knowledge on areas such as exploratory analysis, simulation, modeling, and project management
+-- :bar_chart: I'm currently expanding my knowledge on areas such as exploratory analysis, simulation, modeling, and project management and innovation.
 
--- :signal_strength: My strengths are individualization, learning, responsibility, communication, and analytics
+-- :signal_strength: My strengths are individualization, learning, responsibility, communication, and analytics.
 
--- :sunglasses: I'm looking to connect with other non-traditional analysts/developers interested in the intersection between the public and private sectors
-
--- :pray: Please be patient as I am still working on completing my portfolio. Soon I will have an updated version based on my most recent experience
+-- :pray: Please note that this portfolio is a work in progress.
 
 ---
 
