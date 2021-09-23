@@ -10,7 +10,8 @@
 
 ---
 
-#### Using R for Analytics | [FitPal Fitness Tracker](https://github.com/ajbrillembourg/fitpal-fitness-tracker)
+#### Using R for Analytics | <a href="https://github.com/ajbrillembourg/fitpal-fitness-tracker" target="_blank"><b>FitPal Fitness Tracker</b></a>
+
 ![FitPal Flowchart](https://github.com/ajbrillembourg/fitpal-fitness-tracker/raw/main/FitPal-Logo_MedGreenBackground.png)
 
 ---
