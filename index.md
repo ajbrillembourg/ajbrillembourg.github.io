@@ -14,6 +14,7 @@
 ![FitPal Flowchart](https://github.com/ajbrillembourg/fitpal-fitness-tracker/raw/main/FitPal-Logo_MedGreenBackground.png)
 
 ---
-#### Python Programming | Customer Churn Final Project
+#### Python Programming | [Customer Churn Final Project](https://github.com/ajbrillembourg/customer_churn)
+![Project Flowchart](https://github.com/ajbrillembourg/customer_churn/raw/main/Images/Project_flowchart.png)
 
 ---
