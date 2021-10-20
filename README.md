@@ -4,7 +4,7 @@
 
 -- :mortar_board: I'm currently working on completing my Master of Science in Business Analytics and Information Management at Purdue University.
 
--- :bar_chart: I'm currently expanding my knowledge on areas such as exploratory analysis, simulation, modeling, and project management and innovation.
+-- :bar_chart: I'm currently expanding my knowledge on areas such as data mining, database management and SQL, production systems and service delivery, and training and evaluation.
 
 -- :signal_strength: My strengths are individualization, learning, responsibility, communication, and analytics.
 
