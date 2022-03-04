@@ -1,5 +1,8 @@
-## Krannert School of Management - Industry Practicum
-## Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana
+![](https://ajbrillembourg.github.io/images/Purdue/PurdueLogo_black.png)
+
+##
+## MGMT 69000 - Industry Practicum
+### Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana
 
 ![](https://ajbrillembourg.github.io/images/OurTeam.jpg)
 
@@ -19,13 +22,32 @@ Coming soon! (by May 2022)
 
 ### 4. Connect with us
 
-[Michael Jonelis](https://www.linkedin.com/in/michaeljonelis/)
+**Michael Jonelis** 
+<a href="https://www.linkedin.com/in/michaeljonelis/">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+       width=1.5% height=1.5%>
+</a>
 <br>
-[Vivek Rao](https://www.linkedin.com/in/vivek-rao-analytics/)
+**Vivek Rao**
+<a href="https://www.linkedin.com/in/vivek-rao-analytics">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+       width=1.5% height=1.5%>
+</a>
 <br>
-[Alejandro Brillembourg Cuenca](https://www.linkedin.com/in/ajbrillembourg/)
+**Alejandro Brillembourg Cuenca**
+<a href="https://www.linkedin.com/in/ajbrillembourg/">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+       width=1.5% height=1.5%>
+</a>
 <br>
-[Rupal Bilaiya](https://www.linkedin.com/in/rupal-bilaiya-05741211a/)
+**Rupal Bilaiya**
+<a href="https://www.linkedin.com/in/rupal-bilaiya-05741211a/">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+       width=1.5% height=1.5%>
+</a>
 <br>
-[Sriya Musunuru](https://in.linkedin.com/in/sriya-musunuru-271391170/)
-
+**Sriya Musunuru**
+<a href="https://in.linkedin.com/in/sriya-musunuru-271391170/">
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+       width=1.5% height=1.5%>
+</a>
