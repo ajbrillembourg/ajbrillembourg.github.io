@@ -1,8 +1,7 @@
 ## Krannert School of Management - Industry Practicum
 ## Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana
 
-</br>
-<img src="https://ajbrillembourg.github.io/images/OurTeam.jpg" style="float:right;width:90%;">
+![](https://ajbrillembourg.github.io/images/OurTeam.jpg)
 
 **Project description:** The COVID-19 pandemic disrupted education worldwide. Students missed out on in-person instruction and their grades saw a sharp decline. Our client — a school district in Indiana with more than 15,000 students — looked for creative ways to combat learning loss. In order to increase academic gains in this new environment with pre-existing systemic inequities, our client implemented two sets of treatments: summer school and three concurrent tutoring interventions. 4,500 students attended summer school and 700 students received some kind of tutoring. Tutoring was offered through school teachers (most expensive), contract teachers, and an external vendor (least expensive). Through this study, our client would like to measure the effect of each of these treatments on students’ academic performance.
 
