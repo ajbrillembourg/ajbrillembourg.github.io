@@ -19,13 +19,13 @@ Coming soon! (by May 2022)
 
 ### 4. Connect with us
 
-[Michael Jonelis](https://guides.github.com/features/mastering-markdown/)
+[Michael Jonelis](https://www.linkedin.com/in/michaeljonelis/)
 </br>
-[Vivek Rao](https://guides.github.com/features/mastering-markdown/)
+[Vivek Rao](https://www.linkedin.com/in/vivek-rao-analytics/)
 </br>
-[Alejandro Brillembourg Cuenca](https://guides.github.com/features/mastering-markdown/)
+[Alejandro Brillembourg Cuenca](https://www.linkedin.com/in/ajbrillembourg/)
 </br>
-[Rupal Bilaiya](https://guides.github.com/features/mastering-markdown/)
+[Rupal Bilaiya](https://www.linkedin.com/in/rupal-bilaiya-05741211a/)
 </br>
-[Sriya Musunuru](https://guides.github.com/features/mastering-markdown/)
+[Sriya Musunuru](https://in.linkedin.com/in/sriya-musunuru-271391170/)
 
