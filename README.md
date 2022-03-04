@@ -12,4 +12,4 @@
 
 ---
 
--- Please visit the deployed portfolio page by going to https://ajbrillembourg.github.io/ajbrillembourg/
+-- Please visit the deployed portfolio page by going to https://ajbrillembourg.github.io
