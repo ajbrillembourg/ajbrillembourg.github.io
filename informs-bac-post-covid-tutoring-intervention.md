@@ -12,42 +12,50 @@
 
 Click here to see our current working paper: [Word Document - Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/yldh5ly08gvbue86fgbxb6mv688bjrpt)
 
-### 2. Our Presentation
-
-Click here to see our current working slide deck: [PowerPoing Presentation - Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/77fauq5dka75o3orwkty5q619whobnc0)
-
-### 3. Our Presentation Video
+### 2. Our Presentation Video
 
 Coming soon! (by May 2022)
 
-### 4. Connect with us
+### 3. Connect with us
 
 **Michael Jonelis** 
 <a href="https://www.linkedin.com/in/michaeljonelis/">
-  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" 
+       width=1.5% height=1.5%>
+</a>
+<a href="https://github.com/mjonelis/">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFY3BGhoMwEEA/company-logo_200_200/0/1626195279622?e=1654732800&v=beta&t=JkHpnmGejdmLzM7OwlYVRnvbQ0LHWL6gxewln3Tg1j8" 
        width=1.5% height=1.5%>
 </a>
 <br>
 **Vivek Rao**
 <a href="https://www.linkedin.com/in/vivek-rao-analytics">
-  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" 
+       width=1.5% height=1.5%>
+</a>
+<a href="https://vivrao9.github.io/">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFY3BGhoMwEEA/company-logo_200_200/0/1626195279622?e=1654732800&v=beta&t=JkHpnmGejdmLzM7OwlYVRnvbQ0LHWL6gxewln3Tg1j8" 
        width=1.5% height=1.5%>
 </a>
 <br>
 **Alejandro Brillembourg Cuenca**
 <a href="https://www.linkedin.com/in/ajbrillembourg/">
-  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" 
+       width=1.5% height=1.5%>
+</a>
+<a href="https://ajbrillembourg.github.io/">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFY3BGhoMwEEA/company-logo_200_200/0/1626195279622?e=1654732800&v=beta&t=JkHpnmGejdmLzM7OwlYVRnvbQ0LHWL6gxewln3Tg1j8" 
        width=1.5% height=1.5%>
 </a>
 <br>
 **Rupal Bilaiya**
 <a href="https://www.linkedin.com/in/rupal-bilaiya-05741211a/">
-  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" 
        width=1.5% height=1.5%>
 </a>
 <br>
 **Sriya Musunuru**
 <a href="https://in.linkedin.com/in/sriya-musunuru-271391170/">
-  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_100_100/0/1638831589865?e=1654732800&v=beta&t=cEHqSIwdglmKsg2FFUWuvIrWvI3jeqLu6fjEZWnZOwQ" 
+  <img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" 
        width=1.5% height=1.5%>
 </a>
