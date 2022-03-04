@@ -20,12 +20,12 @@ Coming soon! (by May 2022)
 ### 4. Connect with us
 
 [Michael Jonelis](https://www.linkedin.com/in/michaeljonelis/)
-</br>
+<br>
 [Vivek Rao](https://www.linkedin.com/in/vivek-rao-analytics/)
-</br>
+<br>
 [Alejandro Brillembourg Cuenca](https://www.linkedin.com/in/ajbrillembourg/)
-</br>
+<br>
 [Rupal Bilaiya](https://www.linkedin.com/in/rupal-bilaiya-05741211a/)
-</br>
+<br>
 [Sriya Musunuru](https://in.linkedin.com/in/sriya-musunuru-271391170/)
 
