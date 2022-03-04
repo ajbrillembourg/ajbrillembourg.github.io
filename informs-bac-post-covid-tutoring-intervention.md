@@ -1,31 +1,32 @@
-## This can be your internal website page / project page
+## Krannert School of Management - Industry Practicum
+## Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</br>
+<img src="https://ajbrillembourg.github.io/images/OurTeam.jpg" style="float:right;width:90%;">
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Project description:** The COVID-19 pandemic disrupted education worldwide. Students missed out on in-person instruction and their grades saw a sharp decline. Our client — a school district in Indiana with more than 15,000 students — looked for creative ways to combat learning loss. In order to increase academic gains in this new environment with pre-existing systemic inequities, our client implemented two sets of treatments: summer school and three concurrent tutoring interventions. 4,500 students attended summer school and 700 students received some kind of tutoring. Tutoring was offered through school teachers (most expensive), contract teachers, and an external vendor (least expensive). Through this study, our client would like to measure the effect of each of these treatments on students’ academic performance.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 1. Our Paper
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Click here to see our current working paper: [Word Document - Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/yldh5ly08gvbue86fgbxb6mv688bjrpt)
 
-### 2. Assess assumptions on which statistical inference will be based
+### 2. Our Presentation
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+Click here to see our current working slide deck: [PowerPoing Presentation - Optimally Allocating Student Tutoring: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/77fauq5dka75o3orwkty5q619whobnc0)
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 3. Our Presentation Video
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Coming soon! (by May 2022)
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 4. Connect with us
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+[Michael Jonelis](https://guides.github.com/features/mastering-markdown/)
+</br>
+[Vivek Rao](https://guides.github.com/features/mastering-markdown/)
+</br>
+[Alejandro Brillembourg Cuenca](https://guides.github.com/features/mastering-markdown/)
+</br>
+[Rupal Bilaiya](https://guides.github.com/features/mastering-markdown/)
+</br>
+[Sriya Musunuru](https://guides.github.com/features/mastering-markdown/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
