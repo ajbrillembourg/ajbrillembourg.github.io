@@ -1,3 +1,5 @@
+![](https://github.com/ajbrillembourg/ajbrillembourg.github.io/blob/01ba7d41210f0cb0cc076911a85226bcc869ddc6/images/ABC_LinkedinBanner.png)
+
 # Portfolio
 
 ---
