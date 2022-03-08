@@ -2,7 +2,7 @@
 
 ##
 ## MGMT 69000 - Industry Practicum
-### Impact of K-12 Funding Allocation on Student Tutoring: An Analytics Case Study with the Top School District in Indiana
+### Impact of Funding Allocation on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana
 
 ![](https://ajbrillembourg.github.io/images/OurTeam.jpg)
 
@@ -10,7 +10,7 @@
 
 ### 1. Our Paper
 
-Click here to see our current working paper: [Word Document - Impact of K-12 Funding Allocation on Student Tutoring: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/yldh5ly08gvbue86fgbxb6mv688bjrpt)
+Click here to see our current working paper: [Word Document - Impact of Funding Allocation on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/yldh5ly08gvbue86fgbxb6mv688bjrpt)
 
 ### 2. Our Presentation Video
 
