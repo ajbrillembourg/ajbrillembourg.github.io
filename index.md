@@ -11,7 +11,9 @@
 ---
 
 #### Industry Practicum | <a href="https://ajbrillembourg.github.io/informs-bac-post-covid-tutoring-intervention" target="_blank"><b>Impact of Funding Allocation on Academic Gains for K-12 Students</b></a>
-![Methodology Framework](https://github.com/ajbrillembourg/fitpal-fitness-tracker/raw/main/FitPal-Logo_MedGreenBackground.png)
+![Methodology Framework](https://ajbrillembourg.github.io/images/Purdue/IP/MethodologyFramework_sq_gold.png)
+
+
 
 ---
 
