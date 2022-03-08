@@ -25,5 +25,3 @@
 ![Project Flowchart](https://github.com/ajbrillembourg/customer_churn/raw/main/Images/Project_flowchart.png)
 
 ---
-
-ajbrillembourg.github.io/informs-bac-post-covid-tutoring-intervention.md
