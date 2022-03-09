@@ -1,6 +1,5 @@
 ![](https://ajbrillembourg.github.io/images/Purdue/PurdueLogo_black.png)
 
-##
 ## MGMT 69000 - Industry Practicum
 ### Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana
 
