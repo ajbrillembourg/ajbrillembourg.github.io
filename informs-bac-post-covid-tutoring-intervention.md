@@ -22,8 +22,8 @@ Click here to see our video: [MP4 Poster Video - Impact of Learning Intervention
 ### 4. Connect with us
 
 **Michael Jonelis** 
-<a href="https://www.linkedin.com/in/michaeljonelis/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" width=1.5% height=1.5%></a>
-<a href="https://github.com/mjonelis/"><img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFY3BGhoMwEEA/company-logo_200_200/0/1626195279622?e=1654732800&v=beta&t=JkHpnmGejdmLzM7OwlYVRnvbQ0LHWL6gxewln3Tg1j8" width=1.5% height=1.5%></a>
+[<img width="1.5%" src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" />](https://www.linkedin.com/in/michaeljonelis/)
+[<img width="1.5%" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFY3BGhoMwEEA/company-logo_200_200/0/1626195279622?e=1654732800&v=beta&t=JkHpnmGejdmLzM7OwlYVRnvbQ0LHWL6gxewln3Tg1j8" />](https://github.com/mjonelis/)
 <br>
 **Vivek Rao**
 <a href="https://www.linkedin.com/in/vivek-rao-analytics"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" width=1.5% height=1.5%></a>
