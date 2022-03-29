@@ -9,13 +9,17 @@
 
 ### 1. Our Paper
 
-Click here to see our current working paper: [Word Document - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/yldh5ly08gvbue86fgbxb6mv688bjrpt)
+Click here to see our paper: [PDF Paper - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/4e7q5l2xq6p8tkrhugt3cdqbmrnwhgk0)
 
-### 2. Our Presentation Video
+### 2. Our Poster
 
-Coming soon! (by May 2022)
+Click here to see our poster: [PDF Poster - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/m1s9pu8n5semjpcbnfdjz7w7czef67t2)
 
-### 3. Connect with us
+### 3. Our Presentation Video
+
+Click here to see our video: [MP4 Poster Video - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://youtu.be/GSrvs6jIX2Q)
+
+### 4. Connect with us
 
 **Michael Jonelis** 
 <a href="https://www.linkedin.com/in/michaeljonelis/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQHaVYd13rRz3A/company-logo_200_200/0/1638831589865?e=1654732800&v=beta&t=OaoUGRLZBgKYUuwEj70riKoTy_3hG0kEkBUzWaSewlY" width=1.5% height=1.5%></a>
