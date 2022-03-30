@@ -17,7 +17,7 @@ Click here to see our poster: [PDF Poster - Impact of Learning Interventions on 
 
 ### 3. Our Presentation Video
 
-Click here to see our video: [MP4 Poster Video - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://youtu.be/GSrvs6jIX2Q)
+Click here to see our video: [MP4 Poster Video - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://youtu.be/kbfUN0mr7ZA)
 
 ### 4. Connect with us
 
