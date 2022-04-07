@@ -13,7 +13,7 @@ Click here to see our paper: [PDF Paper - Impact of Learning Interventions on Ac
 
 ### 2. Our Poster
 
-Click here to see our poster: [PDF Poster - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/m1s9pu8n5semjpcbnfdjz7w7czef67t2)
+Click here to see our poster: [PDF Poster - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://ajbrillembourg.github.io/images/Purdue/IP/INFORMS_2022_K-12_Treatment_Effects_V2.pdf)
 
 ### 3. Our Presentation Video
 
