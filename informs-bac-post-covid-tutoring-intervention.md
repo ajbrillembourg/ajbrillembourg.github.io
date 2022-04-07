@@ -9,7 +9,7 @@
 
 ### 1. Our Paper
 
-Click here to see our paper: [PDF Paper - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://app.box.com/s/4e7q5l2xq6p8tkrhugt3cdqbmrnwhgk0)
+Click here to see our paper: [PDF Paper - Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana](https://mwdsi2022.exordo.com/files/papers/35/paper_custom_fields/1/2022MWDSI_Final_Submission.pdf)
 
 ### 2. Our Poster
 
