@@ -3,7 +3,7 @@
 ## MGMT 69000 - Industry Practicum
 ### Impact of Learning Interventions on Academic Gains as an Answer to the COVID-19 Pandemic: An Analytics Case Study with the Top School District in Indiana
 
-![](https://ajbrillembourg.github.io/images/OurTeam.jpg)
+![](https://ajbrillembourg.github.io/images/Purdue/IP/thumbnail1024_1.png)
 
 **Project description:** The COVID-19 pandemic disrupted education worldwide. Students missed out on in-person instruction and their grades saw a sharp decline. Our client — a school district in Indiana with more than 15,000 students — looked for creative ways to combat learning loss. In order to increase academic gains in this new environment with pre-existing systemic inequities, our client implemented two sets of treatments: summer school and three concurrent tutoring interventions. 4,500 students attended summer school and 700 students received some kind of tutoring. Tutoring was offered through school teachers (most expensive), contract teachers, and an external vendor (least expensive). Through this study, our client would like to measure the effect of each of these treatments on students’ academic performance.
 
