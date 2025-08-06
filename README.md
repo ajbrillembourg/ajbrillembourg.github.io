@@ -2,14 +2,18 @@
 
 ## Welcome! ¡Bienvenidos! ¡Bienvenue! :wave:
 
--- :mortar_board: I'm currently working on completing my Master of Science in Business Analytics and Information Management at Purdue University.
+🎓 I hold a Master of Science in Business Analytics and Information Management from Purdue University, where I focused on data transformation, analytics, and responsible AI frameworks.
 
--- :bar_chart: I'm currently expanding my knowledge on areas such as data mining, database management and SQL, production systems and service delivery, and training and evaluation.
+🧠 I design and lead enterprise-scale data initiatives, bringing deep expertise in data architecture, conversion, and automation across sectors including education, public services, and nonprofit. My toolkit includes Power BI, Power Query, Python, SQL, R, and intelligent automation platforms.
 
--- :signal_strength: My strengths are individualization, learning, responsibility, communication, and analytics.
+🛠️ I specialize in translating complex technical concepts into actionable strategies—bridging business and technical teams to modernize legacy systems, streamline operations, and enhance decision-making.
 
--- :pray: Please note that this portfolio is a work in progress.
+🚀 Recent work includes building AI frameworks, enabling GenAI workforce activation, and spearheading scalable HCM & payroll transformations. I’ve led cross-functional teams, authored high-impact deliverables, and guided system adoption across thousands of users.
+
+🌍 I’m passionate about advancing human-centered design in AI and exploring emerging platforms like Foundry, Microsoft Fabric, and cloud-driven analytics tools.
+
+🧭 This portfolio continues to evolve alongside my work in scalable innovation and data-driven transformation.
 
 ---
 
--- Please visit the deployed portfolio page by going to https://ajbrillembourg.github.io
+🌐 Visit the deployed portfolio here: [ajbrillembourg.github.io](https://ajbrillembourg.github.io)
